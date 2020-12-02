@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1606123175345,
+  "timestamp": 1606880125281,
   "index": "https://sy7777.github.io/cash-book/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "https://sy7777.github.io/cash-book/favicon.ico",
         "https://sy7777.github.io/cash-book/index.html",
-        "https://sy7777.github.io/cash-book/main.29b270c1a8fe8d008097.js",
+        "https://sy7777.github.io/cash-book/main.1e5f32e685467a3817b8.js",
         "https://sy7777.github.io/cash-book/manifest.webmanifest",
         "https://sy7777.github.io/cash-book/polyfills.35a5ca1855eb057f016a.js",
         "https://sy7777.github.io/cash-book/runtime.acf0dec4155e77772545.js",
@@ -118,8 +118,8 @@
     "https://sy7777.github.io/cash-book/assets/icons/travel.png": "dc32fdced2ad1f93da0f440cb8484d53ddf7182c",
     "https://sy7777.github.io/cash-book/assets/icons/veg.png": "d0883c8cc2c76087f18c34f1cbbc4227670d01b6",
     "https://sy7777.github.io/cash-book/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://sy7777.github.io/cash-book/index.html": "4b45ca56eee1f3707a69831c7be4317836af2950",
-    "https://sy7777.github.io/cash-book/main.29b270c1a8fe8d008097.js": "212240ca00cc2e04b2df2671685c746221f330ba",
+    "https://sy7777.github.io/cash-book/index.html": "9d36d4db5c82075f7c5f15e51bb9d6c504f15c1f",
+    "https://sy7777.github.io/cash-book/main.1e5f32e685467a3817b8.js": "7098bac4700bc7822517365f7a1ae7f846ab53ef",
     "https://sy7777.github.io/cash-book/manifest.webmanifest": "3f137f5f9ea55db787f4a05515832299138aa24a",
     "https://sy7777.github.io/cash-book/polyfills.35a5ca1855eb057f016a.js": "578360d24ce37383f261c7ef63b1f822d28e8dde",
     "https://sy7777.github.io/cash-book/runtime.acf0dec4155e77772545.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",

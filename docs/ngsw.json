@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1611735548965,
+  "timestamp": 1611736446720,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.942ed2bee5d1fe8577cc.js",
+        "/main.74a3a7b845d8d9b6d1b4.js",
         "/manifest.webmanifest",
         "/polyfills.35a5ca1855eb057f016a.js",
         "/runtime.acf0dec4155e77772545.js",
@@ -118,8 +118,8 @@
     "/assets/icons/travel.png": "dc32fdced2ad1f93da0f440cb8484d53ddf7182c",
     "/assets/icons/veg.png": "d0883c8cc2c76087f18c34f1cbbc4227670d01b6",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "9d8ff56a1ea294284c8cef7a6f234a3c3533c2e5",
-    "/main.942ed2bee5d1fe8577cc.js": "49f246083eec8f2ade5bdf4cdf4ed640b5348a97",
+    "/index.html": "e57814ef533b36d2aa48dcc228f52ef6568cfa6b",
+    "/main.74a3a7b845d8d9b6d1b4.js": "760f1753720609f7dde89a852e17b98e7333a598",
     "/manifest.webmanifest": "3f137f5f9ea55db787f4a05515832299138aa24a",
     "/polyfills.35a5ca1855eb057f016a.js": "578360d24ce37383f261c7ef63b1f822d28e8dde",
     "/runtime.acf0dec4155e77772545.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
